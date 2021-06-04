@@ -43,7 +43,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
     <td>00:05</td>
     <td colspan="2">② 7月査定面談の予告</td>
     <td>今立さん</td>
-    <td>jinjer 打刻方法・ルールについての説明</td>
+    <td>来月行われる査定面談の予告</td>
   </tr>
   <tr>
     <td>19:45 ～ 20:00</td>
