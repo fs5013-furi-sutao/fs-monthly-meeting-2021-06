@@ -2,7 +2,7 @@
 
 ### 開催日時
 
-5/14(金) 19:30 ～ スタート   
+6/11(金) 19:30 ～ スタート   
 
 ### 今回の定例会のテーマ
 
@@ -11,8 +11,8 @@
 
 ### 定例会開催会場
 
-5月度定例会 Teams:  
-https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%40thread.tacv2/1617778129922?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%2247665828-a717-478d-a455-bd3a3dbfaaf2%22%7d
+6月度定例会 Teams:  
+https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%40thread.tacv2/1623229838736?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%2247665828-a717-478d-a455-bd3a3dbfaaf2%22%7d
 
 ## ⬛ 🕢 タイムテーブル
 
@@ -128,7 +128,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
 
 ## ⬛ ワークショップ
 
-今回のワークは、「価値観の明確化」です。    
+今回のワークは、「NASA トライアル」です。    
 価値観を明確にする目的は、今後の仕事や人生で、明確な価値観を基準にして、後悔のない選択ができるようにするためです。
 
 あなたの行動を決める価値観を明確にして人生と仕事を豊かにしましょう。
@@ -137,8 +137,8 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
 
 ワークを実施する前に以下の動画を視聴して、ワークの目的、ワークの方法などを確認しましょう。
 
-価値観明確化ワーク説明:    
-https://youtu.be/SfhjFD-WuC4
+ワーク説明（NASA トライアル）:    
+https://youtu.be/N_K7fuusjsg
 
 ### ワークで利用する Excel シート  
 
