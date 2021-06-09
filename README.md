@@ -1,4 +1,4 @@
-# <img src="./logo.jpg" width="80"> 2021年5月度定例会 
+# <img src="./logo.jpg" width="80"> 2021年6月度定例会 
 
 ### 開催日時
 
