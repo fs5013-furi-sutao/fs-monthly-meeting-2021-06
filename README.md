@@ -144,6 +144,13 @@ https://youtu.be/N_K7fuusjsg
 
 以下の Excel シートをダウンロードして、ワークを実施してください。
 
+⏩ **[NASAトライアル_模範解答.xlsx](https://github.com/fs5013-furi-sutao/fs-monthly-meeting-2021-06/raw/main/excel/NASAトライアル_模範解答.xlsx)**
+
+### NASA トライアルの模範解答  
+
+個人トライアルとチームトライアルが終わるまで、模範解答は見ないでください。  
+トライアルが完了後、以下の模範解答で答え合わせを行いましょう。  
+
 ⏩ **[NASAトライアル_回答記入シート.xlsx](https://github.com/fs5013-furi-sutao/fs-monthly-meeting-2021-06/raw/main/excel/NASAトライアル_回答記入シート.xlsx)**
 
 ### ワークが終わった後は・・・
