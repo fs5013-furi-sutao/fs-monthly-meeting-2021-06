@@ -144,7 +144,7 @@ https://youtu.be/N_K7fuusjsg
 
 以下の Excel シートをダウンロードして、ワークを実施してください。
 
-[ワークシート_価値観リスト100.xlsx](https://github.com/fs5013-furi-sutao/fs-monthly-meeting-2021-05/raw/main/ワークシート_価値観リスト100.xlsx)
+[NASAトライアル_回答記入シート.xlsx](https://github.com/fs5013-furi-sutao/fs-monthly-meeting-2021-06/raw/main/excel/NASAトライアル_回答記入シート.xlsx)
 
 ### ワークが終わった後は・・・
 
