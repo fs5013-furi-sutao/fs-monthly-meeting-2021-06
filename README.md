@@ -178,7 +178,7 @@ https://youtu.be/N_K7fuusjsg
 > ## FS 6月度定例会 レッド会場    
 > https://live.remo.co/e/fs-5
 
-![FS 6月度定例会 レッド会場](./red-hall.png)
+![FS 6月度定例会 レッド会場](./image/red-hall.png)
 
 ### A テーブル 
 
@@ -213,7 +213,7 @@ https://youtu.be/N_K7fuusjsg
 > ## FS 6月度定例会 ブラウン会場    
 > https://live.remo.co/e/fs-5-1
 
-![FS 6月度定例会 ブラウン会場](./brown-hall.png)
+![FS 6月度定例会 ブラウン会場](./image/brown-hall.png)
 
 ### E テーブル    
 
