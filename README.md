@@ -144,7 +144,7 @@ https://youtu.be/N_K7fuusjsg
 
 以下の Excel シートをダウンロードして、ワークを実施してください。
 
-[NASAトライアル_回答記入シート.xlsx](https://github.com/fs5013-furi-sutao/fs-monthly-meeting-2021-06/raw/main/excel/NASAトライアル_回答記入シート.xlsx)
+⏩ **[NASAトライアル_回答記入シート.xlsx](https://github.com/fs5013-furi-sutao/fs-monthly-meeting-2021-06/raw/main/excel/NASAトライアル_回答記入シート.xlsx)**
 
 ### ワークが終わった後は・・・
 
