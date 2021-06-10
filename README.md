@@ -102,15 +102,15 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
     <td>ワークのまとめ</td>
   </tr>
   <tr>
-    <td>21:20 ～ 21:50</td>
-    <td>00:30</td>
+    <td>21:20 ～ 21:45</td>
+    <td>00:25</td>
     <td colspan="2">⑥ グループディスカッション</td>
     <td>各チーム</td>
     <td>ワークの感想を中心にグループディスカッション</td>
   </tr>
   <tr>
-    <td>21:50 ～ 21:55</td>
-    <td>00:05</td>
+    <td>21:45 ～ 21:55</td>
+    <td>00:10</td>
     <td colspan="2">定例会の感想記載</td>
     <td>各自</td>
     <td>定例会の感想記載</td>
