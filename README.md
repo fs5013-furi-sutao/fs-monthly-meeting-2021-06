@@ -92,7 +92,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
     <td>00:05</td>
     <td>答え合わせ</td>
     <td>各自</td>
-    <td>ワークの感想記載</td>
+    <td>模範解答を使って答え合わせ、結果スコアを確認する</td>
   </tr>
   <tr>
     <td>21:15 ～ 21:20</td>
