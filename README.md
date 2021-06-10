@@ -176,7 +176,7 @@ https://youtu.be/N_K7fuusjsg
 以下にグループディスカッションを行うテーブル分けのメンバを示します（敬称略）。
 
 > ## FS 6月度定例会 レッド会場    
-> https://live.remo.co/e/fs-5
+> https://live.remo.co/e/fs-6-1
 
 ![FS 6月度定例会 レッド会場](./image/red-hall.png)
 
