@@ -211,7 +211,7 @@ https://youtu.be/N_K7fuusjsg
 <br/>
 
 > ## FS 6月度定例会 ブラウン会場    
-> https://live.remo.co/e/fs-5-1
+> https://live.remo.co/e/fs-6-2
 
 ![FS 6月度定例会 ブラウン会場](./image/brown-hall.png)
 
