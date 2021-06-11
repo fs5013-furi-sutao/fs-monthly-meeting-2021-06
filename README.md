@@ -62,7 +62,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
   <tr>
     <td>20:15 ～ 20:25</td>
     <td>00:10</td>
-    <td rowspan="6">⑤ ワークショップ</td>
+    <td rowspan="6">⑤ ワークショップ（NASA トライアル）</td>
     <td>ワーク説明</td>
     <td>橋本さん</td>
     <td>動画を使ってワーク内容・方法を説明</td>
@@ -126,8 +126,6 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
 
 <br/>
 
-<!--
-
 ## ⬛ ワークショップ
 
 今回のワークは、「NASA トライアル」です。    
@@ -174,8 +172,6 @@ https://youtu.be/N_K7fuusjsg
 6/16(水) 23:59 まで
 
 <br />
-
--->
 
 ## ⬛ 👨‍👩‍👧‍👦 テーブル分けについて
 
