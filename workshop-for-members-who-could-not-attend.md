@@ -75,95 +75,61 @@ https://youtu.be/N_K7fuusjsg
 
 <br/>
 
-## グループディスカッション日程スケジュール表
+## ワークショップ日程スケジュール表
 
 <table>
   <tr>
+    <td>No.</td>
     <td>日付</td>
     <td>曜日</td>
     <td>時間</td>
     <td colspan="2">参加メンバ</td>
   </tr>
   <tr>
-    <td rowspan="6">05月24日</td>
-    <td rowspan="6">月</td>
-    <td rowspan="6">15:00 ～ 16:00</td>
     <td>1</td>
-    <td>内田悠介</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>打屋遥奈</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>各務拓</td>
-  </tr>
-  <tr>
-    <td>4</td>
+    <td rowspan="4">06月17日</td>
+    <td rowspan="4">木</td>
+    <td rowspan="4">15:30 ～ 16:30</td>
+    <td>1</td>
     <td>田中聖人</td>
   </tr>
   <tr>
-    <td>5</td>
+    <td></td>
+    <td>2</td>
+    <td>濵田皓基</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>3</td>
     <td>藤島大介</td>
   </tr>
   <tr>
-    <td>6</td>
-    <td>森勇人</td>
-  </tr>
-  <tr>
-    <td rowspan="7"><del>05月26日</del>&nbsp;&nbsp;中止</td>
-    <td rowspan="7"><del>水</del></td>
-    <td rowspan="7"><del>20:00 ～ 21:00</del></td>
-    <td>1</td>
-    <td><del>荒木真護</del>（欠席）</td>
+    <td></td>
+    <td>4</td>
+    <td>安江大吾</td>
   </tr>
   <tr>
     <td>2</td>
-    <td><del>近藤巧</del>（欠席）</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td><del>服部睦</del>（欠席）</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td><del>福嵜拓也</del>（欠席）</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>藤岡大樹（20:30 ～ 参加予定）</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>山田優一</td>
-  </tr>
-  <tr>
-    <td>7</td>
-    <td>山田隆次</td>
-  </tr>
-  <tr>
-    <td rowspan="5">05月28日</td>
-    <td rowspan="5">金</td>
-    <td rowspan="5">20:00 ～ 21:00</td>
+    <td rowspan="4">06月21日</td>
+    <td rowspan="4">月</td>
+    <td rowspan="4">10:00 ～ 11:00</td>
     <td>1</td>
-    <td>竹本直矢</td>
+    <td>安部貴哉</td>
   </tr>
   <tr>
+    <td></td>
     <td>2</td>
-    <td><del>服部睦</del>（欠席）</td>
+    <td>木村弘樹</td>
   </tr>
   <tr>
+    <td></td>
     <td>3</td>
-    <td>藤岡大樹</td>
+    <td>児山将之</td>
   </tr>
   <tr>
+    <td></td>
     <td>4</td>
-    <td>山田優一</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>山田隆次</td>
+    <td>山本晃大</td>
   </tr>
 </table>
 
