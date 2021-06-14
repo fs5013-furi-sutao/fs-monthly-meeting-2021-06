@@ -12,7 +12,7 @@
 
 ワーク開始時間前になりましたら、以下のリンクをクリックしてください。
 
-https://teams.microsoft.com/l/meetup-join/19%3a6f61eab8638e4261910eeeaa171f4ab5%40thread.tacv2/1621833881864?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%2247665828-a717-478d-a455-bd3a3dbfaaf2%22%7d
+https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%40thread.tacv2/1623229838736?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%2247665828-a717-478d-a455-bd3a3dbfaaf2%22%7d
 
 リンクをクリックすると、ブラウザが開きますので、「このブラウザで続ける」を選択し、Teams の接続が開始されることを確認してください。
 
