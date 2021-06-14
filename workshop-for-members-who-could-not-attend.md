@@ -123,6 +123,10 @@ https://youtu.be/N_K7fuusjsg
   </tr>
   <tr>
     <td>4</td>
+    <td>永島将嗣</td>
+  </tr>
+  <tr>
+    <td>5</td>
     <td>山本晃大</td>
   </tr>
 </table>
