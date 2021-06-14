@@ -86,7 +86,7 @@ https://youtu.be/N_K7fuusjsg
     <td colspan="2">参加メンバ</td>
   </tr>
   <tr>
-    <td>1</td>
+    <td rowspan="4">1</td>
     <td rowspan="4">06月17日</td>
     <td rowspan="4">木</td>
     <td rowspan="4">15:30 ～ 16:30</td>
@@ -94,22 +94,19 @@ https://youtu.be/N_K7fuusjsg
     <td>田中聖人</td>
   </tr>
   <tr>
-    <td></td>
     <td>2</td>
     <td>濵田皓基</td>
   </tr>
   <tr>
-    <td></td>
     <td>3</td>
     <td>藤島大介</td>
   </tr>
   <tr>
-    <td></td>
     <td>4</td>
     <td>安江大吾</td>
   </tr>
   <tr>
-    <td>2</td>
+    <td rowspan="4">2</td>
     <td rowspan="4">06月21日</td>
     <td rowspan="4">月</td>
     <td rowspan="4">10:00 ～ 11:00</td>
@@ -117,17 +114,14 @@ https://youtu.be/N_K7fuusjsg
     <td>安部貴哉</td>
   </tr>
   <tr>
-    <td></td>
     <td>2</td>
     <td>木村弘樹</td>
   </tr>
   <tr>
-    <td></td>
     <td>3</td>
     <td>児山将之</td>
   </tr>
   <tr>
-    <td></td>
     <td>4</td>
     <td>山本晃大</td>
   </tr>
@@ -137,7 +131,7 @@ https://youtu.be/N_K7fuusjsg
 
 ## ⬛ 🕢 タイムテーブル
 
-### 5月24日(月) 開催
+### 6月17日(木) 開催
 
 |時刻 |所要時間 |内容 | 担当 |概要 |
 |:-- |:-- |:-- |:-- |:-- |
@@ -148,16 +142,7 @@ https://youtu.be/N_K7fuusjsg
 
 <br />
 
-<h3><del>5月26日(水) 開催</del>&nbsp;&nbsp;中止</h3>
-
-|時刻 |所要時間 |内容 | 担当 |概要 |
-|:-- |:-- |:-- |:-- |:-- |
-|20:00 ~ 20:05 |5分 |ワークの説明 |橋本 |グループディスカッションの説明（目的・やり方） |
-|20:05 ~ 20:15 |10分 |自己紹介タイム|チーム |はじめまして、こんにちは～ |
-|20:15 ~ 20:55 |40分 |グループディスカッション |チーム |トークテーマに沿ってフリートーク |
-|20:55 ~ 21:00 |5分 |感想アンケート記載 |各自 |今回のワークの感想を [アンケートフォーム](https://forms.gle/LbYxPFbm3mpsVVWz5) から記載 |
-
-### 5月28日(金) 開催
+### 6月21日(月) 開催
 
 |時刻 |所要時間 |内容 | 担当 |概要 |
 |:-- |:-- |:-- |:-- |:-- |
@@ -169,9 +154,11 @@ https://youtu.be/N_K7fuusjsg
 
 <br />
 
-## ⬛ 📝 感想フォーム
+## ⬛ 📝 感想フォームへの回答
 
-5月度グループディスカッション感想フォーム：  
-**https://forms.gle/LbYxPFbm3mpsVVWz5**
+以下のアンケート一覧から「6月度定例会 感想フォーム＜B＞」への回答をお願いします。
+
+受付中アンケート一覧ページ：
+https://github.com/fs5013-furi-sutao/fs-its-accepting-surveys-list
 
 <br />
