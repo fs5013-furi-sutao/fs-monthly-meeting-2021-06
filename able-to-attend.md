@@ -33,4 +33,21 @@ https://github.com/fs5013-furi-sutao/fs-its-accepting-surveys-list
 
 ![6/16(水) 23:59 締め切り](./svg/closing-monthly-meeting-2021-06-impressions.svg)
 
+また、当日参加できた方は、    
+ワーク「NASA トライアル」が終わった後の Excel ファイルは、メールで人事部あてに提出してください。
+
+#### Excel ファイルの提出先
+
+> **メールアドレス：** ![提出先メールアドレス](./svg/address-for-submission.svg)
+> 
+> **件名：** 「NASA トライアルワーク結果：6月度定例会」
+> 
+> **Excel ファイル名：** 「ワークシート_NASAトライアル_氏名.xlsx」
+
+#### Excel ファイルの提出期限
+
+6/16(水) 23:59 まで
+
+<br />
+
 以上、よろしくお願い致します。
