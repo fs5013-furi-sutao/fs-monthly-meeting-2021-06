@@ -89,7 +89,7 @@ https://youtu.be/N_K7fuusjsg
     <td rowspan="4">1</td>
     <td rowspan="4">06月17日</td>
     <td rowspan="4">木</td>
-    <td rowspan="4">15:30 ～ 16:30</td>
+    <td rowspan="4">16:00 ～ 17:00</td>
     <td>1</td>
     <td>田中聖人</td>
   </tr>
