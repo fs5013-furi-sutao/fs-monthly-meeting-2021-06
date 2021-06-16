@@ -86,23 +86,19 @@ https://youtu.be/N_K7fuusjsg
     <td colspan="2">参加メンバ</td>
   </tr>
   <tr>
-    <td rowspan="4">1</td>
-    <td rowspan="4">06月17日</td>
-    <td rowspan="4">木</td>
-    <td rowspan="4">16:00 ～ 17:00</td>
+    <td rowspan="3">1</td>
+    <td rowspan="3">06月17日</td>
+    <td rowspan="3">木</td>
+    <td rowspan="3">16:00 ～ 17:00</td>
     <td>1</td>
-    <td>田中聖人</td>
-  </tr>
-  <tr>
-    <td>2</td>
     <td>濵田皓基</td>
   </tr>
   <tr>
-    <td>3</td>
+    <td>2</td>
     <td>藤島大介</td>
   </tr>
   <tr>
-    <td>4</td>
+    <td>3</td>
     <td>安江大吾</td>
   </tr>
   <tr>
