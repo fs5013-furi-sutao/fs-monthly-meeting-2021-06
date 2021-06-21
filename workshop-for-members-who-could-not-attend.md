@@ -111,7 +111,7 @@ https://youtu.be/N_K7fuusjsg
   </tr>
   <tr>
     <td>2</td>
-    <td>木村弘樹</td>
+    <td><del>木村弘樹</del> 欠席</td>
   </tr>
   <tr>
     <td>3</td>
